@@ -1,2 +1,3 @@
 ﻿git is pretty  cool
 git
+git commit twice
