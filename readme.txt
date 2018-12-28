@@ -2,3 +2,5 @@
 git
 git commit twice
 git tracks changes of files
+
+git push origin master
