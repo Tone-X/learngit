@@ -1,4 +1,4 @@
 ﻿git is pretty  cool
 git
 git commit twice
-git tracks changes
+git tracks changes of files
