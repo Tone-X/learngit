@@ -1,1 +1,2 @@
-﻿git is cool
+﻿git is pretty  cool
+git
