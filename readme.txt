@@ -11,3 +11,5 @@ git push origin bug
 creating a new branch is quick
 
 creating a new branch is so quick and simple
+
+git rebase
